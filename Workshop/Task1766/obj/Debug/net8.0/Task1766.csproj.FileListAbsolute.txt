@@ -1,0 +1,5 @@
+C:\Users\ACER\source\repos\StudyModule-17\Workshop\Task1766\obj\Debug\net8.0\Task1766.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\StudyModule-17\Workshop\Task1766\obj\Debug\net8.0\Task1766.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\StudyModule-17\Workshop\Task1766\obj\Debug\net8.0\Task1766.AssemblyInfo.cs
+C:\Users\ACER\source\repos\StudyModule-17\Workshop\Task1766\obj\Debug\net8.0\Task1766.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\StudyModule-17\Workshop\Task1766\obj\Debug\net8.0\Task1766.sourcelink.json
